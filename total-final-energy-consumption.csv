@@ -1,0 +1,151 @@
+year,sector,energy_product,energy_consumption
+2009,Industry-related,Coal and Peat,3
+2009,Commerce & Service-related,Coal and Peat,-
+2009,Transport-related,Coal and Peat,-
+2009,Household,Coal and Peat,-
+2009,Others,Coal and Peat,-
+2009,Industry-related,Crude Oil,-
+2009,Commerce & Service-related,Crude Oil,-
+2009,Transport-related,Crude Oil,-
+2009,Household,Crude Oil,-
+2009,Others,Crude Oil,-
+2009,Industry-related,Petroleum Products,5661.9
+2009,Commerce & Service-related,Petroleum Products,78.5
+2009,Transport-related,Petroleum Products,2193.3
+2009,Household,Petroleum Products,25.3
+2009,Others,Petroleum Products,-
+2009,Industry-related,Natural Gas,728
+2009,Commerce & Service-related,Natural Gas,64
+2009,Transport-related,Natural Gas,13.4
+2009,Household,Natural Gas,48.7
+2009,Others,Natural Gas,1.2
+2009,Industry-related,Electricity,1362.1
+2009,Commerce & Service-related,Electricity,1235.5
+2009,Transport-related,Electricity,142.1
+2009,Household,Electricity,553.9
+2009,Others,Electricity,44.6
+2009,Industry-related,Others,-
+2009,Commerce & Service-related,Others,-
+2009,Transport-related,Others,-
+2009,Household,Others,-
+2009,Others,Others,-
+2010,Industry-related,Coal and Peat,7.6
+2010,Commerce & Service-related,Coal and Peat,-
+2010,Transport-related,Coal and Peat,-
+2010,Household,Coal and Peat,-
+2010,Others,Coal and Peat,-
+2010,Industry-related,Crude Oil,-
+2010,Commerce & Service-related,Crude Oil,-
+2010,Transport-related,Crude Oil,-
+2010,Household,Crude Oil,-
+2010,Others,Crude Oil,-
+2010,Industry-related,Petroleum Products,7155.3
+2010,Commerce & Service-related,Petroleum Products,84.2
+2010,Transport-related,Petroleum Products,2219.1
+2010,Household,Petroleum Products,21.7
+2010,Others,Petroleum Products,-
+2010,Industry-related,Natural Gas,975.8
+2010,Commerce & Service-related,Natural Gas,69.1
+2010,Transport-related,Natural Gas,20.5
+2010,Household,Natural Gas,48.5
+2010,Others,Natural Gas,1.3
+2010,Industry-related,Electricity,1527.1
+2010,Commerce & Service-related,Electricity,1304
+2010,Transport-related,Electricity,184.3
+2010,Household,Electricity,571.6
+2010,Others,Electricity,46
+2010,Industry-related,Others,-
+2010,Commerce & Service-related,Others,-
+2010,Transport-related,Others,-
+2010,Household,Others,-
+2010,Others,Others,-
+2011,Industry-related,Coal and Peat,6.4
+2011,Commerce & Service-related,Coal and Peat,-
+2011,Transport-related,Coal and Peat,-
+2011,Household,Coal and Peat,-
+2011,Others,Coal and Peat,-
+2011,Industry-related,Crude Oil,-
+2011,Commerce & Service-related,Crude Oil,-
+2011,Transport-related,Crude Oil,-
+2011,Household,Crude Oil,-
+2011,Others,Crude Oil,-
+2011,Industry-related,Petroleum Products,7302.8
+2011,Commerce & Service-related,Petroleum Products,68.9
+2011,Transport-related,Petroleum Products,2366.9
+2011,Household,Petroleum Products,24.8
+2011,Others,Petroleum Products,-
+2011,Industry-related,Natural Gas,1020.9
+2011,Commerce & Service-related,Natural Gas,73
+2011,Transport-related,Natural Gas,25.6
+2011,Household,Natural Gas,49.7
+2011,Others,Natural Gas,1.2
+2011,Industry-related,Electricity,1553
+2011,Commerce & Service-related,Electricity,1351.2
+2011,Transport-related,Electricity,195.9
+2011,Household,Electricity,558.4
+2011,Others,Electricity,39.5
+2011,Industry-related,Others,-
+2011,Commerce & Service-related,Others,-
+2011,Transport-related,Others,-
+2011,Household,Others,-
+2011,Others,Others,-
+2012,Industry-related,Coal and Peat,23
+2012,Commerce & Service-related,Coal and Peat,-
+2012,Transport-related,Coal and Peat,-
+2012,Household,Coal and Peat,-
+2012,Others,Coal and Peat,-
+2012,Industry-related,Crude Oil,-
+2012,Commerce & Service-related,Crude Oil,-
+2012,Transport-related,Crude Oil,-
+2012,Household,Crude Oil,-
+2012,Others,Crude Oil,-
+2012,Industry-related,Petroleum Products,7016.7
+2012,Commerce & Service-related,Petroleum Products,68.3
+2012,Transport-related,Petroleum Products,2292.7
+2012,Household,Petroleum Products,23.7
+2012,Others,Petroleum Products,-
+2012,Industry-related,Natural Gas,984.8
+2012,Commerce & Service-related,Natural Gas,73.3
+2012,Transport-related,Natural Gas,19.6
+2012,Household,Natural Gas,51.2
+2012,Others,Natural Gas,1.1
+2012,Industry-related,Electricity,1597.6
+2012,Commerce & Service-related,Electricity,1387.3
+2012,Transport-related,Electricity,205.6
+2012,Household,Electricity,571
+2012,Others,Electricity,39.1
+2012,Industry-related,Others,-
+2012,Commerce & Service-related,Others,-
+2012,Transport-related,Others,-
+2012,Household,Others,-
+2012,Others,Others,-
+2013,Industry-related,Coal and Peat,129
+2013,Commerce & Service-related,Coal and Peat,-
+2013,Transport-related,Coal and Peat,-
+2013,Household,Coal and Peat,-
+2013,Others,Coal and Peat,-
+2013,Industry-related,Crude Oil,-
+2013,Commerce & Service-related,Crude Oil,-
+2013,Transport-related,Crude Oil,-
+2013,Household,Crude Oil,-
+2013,Others,Crude Oil,-
+2013,Industry-related,Petroleum Products,5886.3
+2013,Commerce & Service-related,Petroleum Products,86.4
+2013,Transport-related,Petroleum Products,2133.3
+2013,Household,Petroleum Products,30
+2013,Others,Petroleum Products,-
+2013,Industry-related,Natural Gas,1144.9
+2013,Commerce & Service-related,Natural Gas,81.9
+2013,Transport-related,Natural Gas,18.1
+2013,Household,Natural Gas,51.8
+2013,Others,Natural Gas,0.8
+2013,Industry-related,Electricity,1619.1
+2013,Commerce & Service-related,Electricity,1427.8
+2013,Transport-related,Electricity,203.8
+2013,Household,Electricity,581.8
+2013,Others,Electricity,30.2
+2013,Industry-related,Others,-
+2013,Commerce & Service-related,Others,-
+2013,Transport-related,Others,-
+2013,Household,Others,-
+2013,Others,Others,-
